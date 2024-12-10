@@ -36,8 +36,8 @@ Desarrollé una aplicación web donde los usuarios de una veterinaria pueden reg
 ### 🎉 **Buddify | App de Actividades en Grupo**
 **Descripción:**  
 Una app para planificar actividades grupales a ciegas. Los usuarios pueden unirse y crear actividades, ¡pero con un toque de misterio! Usé geolocalización para crear y buscar actividades, y un chat grupal con socket para mantener todo en comunicación.
-**Tecnologías**: Nest.js, Next.js, React, TypeScript, Socket.io, Geolocalización, OAuth 2.0, Cron Jobs
-🔗 [Repo Front](https://github.com/chi-bosio/Buddify)
+**Tecnologías**: Nest.js, Next.js, React, TypeScript, Socket.io, Geolocalización, OAuth 2.0, Cron Jobs  
+🔗 [Repo Front](https://github.com/chi-bosio/Buddify)  
 🔗 [Repo Back](https://github.com/chi-bosio/Buddify_API)
 
 ---
