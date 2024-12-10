@@ -27,7 +27,7 @@ Soy un desarrollador web en formación con un enfoque fullstack. Me apasiona cre
 
 ## 📌 **Proyectos destacados:**  
 
-### 🛍️ **Don Pipon**  
+### 🐾 **Don Pipon**  
 **Descripción:**  
 Desarrollé una aplicación web donde los usuarios de una veterinaria pueden registrarse, iniciar sesión, y gestionar sus turnos de consulta. Los usuarios pueden reservar turnos en línea y, si es necesario, cancelarlos.  
 **Tecnologías:** Vite, React, CSS/HTML, Node.js, Express.js, PostgreSQL  
