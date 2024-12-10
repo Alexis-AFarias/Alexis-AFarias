@@ -6,7 +6,6 @@ Soy un desarrollador web en formación con un enfoque fullstack. Me apasiona cre
 
 ## 🛠 **Tecnologías Utilizadas**  
 
-### **Frontend:**
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -15,18 +14,10 @@ Soy un desarrollador web en formación con un enfoque fullstack. Me apasiona cre
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</div>
-
-### **Backend:**
-<div align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/-Socket.IO-010001?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
-</div>
-
-### **Base de Datos:**
-<div align="center">
   <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-TypeORM-E5E500?style=for-the-badge&logo=typeorm&logoColor=black" alt="TypeORM" />
